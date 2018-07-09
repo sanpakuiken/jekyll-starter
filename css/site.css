@@ -169,8 +169,6 @@ article p {
 		top:9px;
 		right:-6px;
 		font-size:9px;
-		-webkit-transform: rotate(-90deg);
-		-moz-transform: rotate(-90deg); 
 	}	
 }
 @media only screen and (max-width: 325px) {
