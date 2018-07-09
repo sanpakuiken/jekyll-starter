@@ -15,6 +15,7 @@
 			{% include header.html %}
 		</header>
 		<main>
+			{% for post in paginator.posts %}
 			<article>
 				<div class="date">
 					<span class="day">12</span>
@@ -22,11 +23,14 @@
 					<span class="year">2018</span>
 				</div>				
 				<div class="post-title">
-					<h2>Titulo de post</h2>
+					<h2><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></h2>
 					<b>Autor: </b>Konrvd Mirror
 				</div>
-				
+				{% if post.content contains '-moarmoar-' %}
+				<a href="{{ post.url }}">[Seguir leyendo...]</a>
+				{% endif %}					
 			</article>
+			{% endfor %}
 			<article>
 			uno
 			</article>
