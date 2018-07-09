@@ -161,6 +161,11 @@ article p {
 		left:5px;
 		font-size: 10px;
 	}
+	.year {
+		top:19px;
+		right:0px;
+		font-size:19px;
+	}
 }
 @media only screen and (max-width: 325px) {
 	header { height:150px; }
