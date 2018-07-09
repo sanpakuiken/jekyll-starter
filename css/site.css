@@ -163,7 +163,7 @@ article p {
 	}
 	.year {
 		top:19px;
-		right:0px;
+		right:-10px;
 		font-size:19px;
 	}
 }
