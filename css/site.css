@@ -157,6 +157,10 @@ article p {
 		top:25px;
 		left:5px;
 	}
+	.month {
+		left:5px;
+		font-size: 10px;
+	}
 }
 @media only screen and (max-width: 325px) {
 	header { height:150px; }
