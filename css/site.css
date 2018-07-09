@@ -148,6 +148,30 @@ article p {
 	}
 	main { padding-top:170px; }
 	article { font-size:75%; }
+	.date {
+		width: 55px;
+		height: 55px;
+	}
+	.day, .month, .year { 
+		position: absolute; 
+	}
+	.day {
+		font-size:20px;
+		top:10px;
+		left:5px;
+	}
+	.month {
+		top:0;
+		left:5px;
+		font-size: 10px;
+	}
+	.year {
+		top:9px;
+		right:-6px;
+		font-size:9px;
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg); 
+	}	
 }
 @media only screen and (max-width: 325px) {
 	header { height:150px; }
