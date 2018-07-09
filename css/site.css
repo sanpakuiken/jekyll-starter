@@ -148,6 +148,10 @@ article p {
 	}
 	main { padding-top:170px; }
 	article { font-size:75%; }
+	.date {
+		width: 35px;
+		height: 35px;
+	}
 }
 @media only screen and (max-width: 325px) {
 	header { height:150px; }
