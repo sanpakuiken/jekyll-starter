@@ -1,33 +1,33 @@
 @font-face {
     font-family: 'Audiowide';
-    src: url('hinted-Audiowide-Regular.eot');
+    src: url('/fonts//fonts/hinted-Audiowide-Regular.eot');
     src: local('Audiowide Regular'), local('Audiowide-Regular'),
-        url('hinted-Audiowide-Regular.eot?#iefix') format('embedded-opentype'),
-        url('hinted-Audiowide-Regular.woff2') format('woff2'),
-        url('hinted-Audiowide-Regular.woff') format('woff'),
-        url('hinted-Audiowide-Regular.svg#Audiowide-Regular') format('svg');
+        url('/fonts/hinted-Audiowide-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/hinted-Audiowide-Regular.woff2') format('woff2'),
+        url('/fonts/hinted-Audiowide-Regular.woff') format('woff'),
+        url('/fonts/hinted-Audiowide-Regular.svg#Audiowide-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Roboto Mono Bold';
-    src: url('hinted-RobotoMono-Bold.eot');
+    src: url('/fonts//fonts/hinted-RobotoMono-Bold.eot');
     src: local('Roboto Mono Bold'), local('RobotoMono-Bold'),
-        url('hinted-RobotoMono-Bold.eot?#iefix') format('embedded-opentype'),
-        url('hinted-RobotoMono-Bold.woff2') format('woff2'),
-        url('hinted-RobotoMono-Bold.woff') format('woff'),
-        url('hinted-RobotoMono-Bold.svg#RobotoMono-Bold') format('svg');
+        url('/fonts/hinted-RobotoMono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/hinted-RobotoMono-Bold.woff2') format('woff2'),
+        url('/fonts/hinted-RobotoMono-Bold.woff') format('woff'),
+        url('/fonts/hinted-RobotoMono-Bold.svg#RobotoMono-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
     font-family: 'Roboto Mono';
-    src: url('hinted-RobotoMono-Regular.eot');
+    src: url('/fonts//fonts/hinted-RobotoMono-Regular.eot');
     src: local('Roboto Mono'), local('RobotoMono-Regular'),
-        url('hinted-RobotoMono-Regular.eot?#iefix') format('embedded-opentype'),
-        url('hinted-RobotoMono-Regular.woff2') format('woff2'),
-        url('hinted-RobotoMono-Regular.woff') format('woff'),
-        url('hinted-RobotoMono-Regular.svg#RobotoMono-Regular') format('svg');
+        url('/fonts/hinted-RobotoMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/hinted-RobotoMono-Regular.woff2') format('woff2'),
+        url('/fonts/hinted-RobotoMono-Regular.woff') format('woff'),
+        url('/fonts/hinted-RobotoMono-Regular.svg#RobotoMono-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
