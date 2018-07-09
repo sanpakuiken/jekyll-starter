@@ -152,6 +152,11 @@ article p {
 		width: 45px;
 		height: 45px;
 	}
+	.day {
+		font-size:20px;
+		top:10px;
+		left:5px;
+	}
 }
 @media only screen and (max-width: 325px) {
 	header { height:150px; }
