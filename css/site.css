@@ -123,7 +123,7 @@ article p {
     text-justify: inter-word;
     font-size:90%;
     margin-top:10px;
-    margin-bottom: 30px;	
+    margin-bottom: 20px;	
 }
 @media only screen and (min-width: 1280px) {
 	* { font-size:105%; }
