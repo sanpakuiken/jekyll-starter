@@ -45,6 +45,7 @@ header {
 	background-color:rgba(117,134,159,1);
 	height:100px;
 	overflow:hidden;
+	z-index:9999;
 }
 header a { 
 	display:inline-block; 
