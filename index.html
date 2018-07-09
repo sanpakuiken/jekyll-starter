@@ -26,8 +26,9 @@
 					<h2><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></h2>
 					<b>Autor: </b>Konrvd Mirror
 				</div>
+				{{ post.content | split:'-moarmoar-' | first }}
 				{% if post.content contains '-moarmoar-' %}
-				<a href="{{ post.url }}">[Seguir leyendo...]</a>
+				...<br><a href="{{ post.url }}">[ Seguir leyendo ]</a>
 				{% endif %}					
 			</article>
 			{% endfor %}
