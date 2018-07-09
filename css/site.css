@@ -149,8 +149,8 @@ article p {
 	main { padding-top:170px; }
 	article { font-size:75%; }
 	.date {
-		width: 55px;
-		height: 55px;
+		width: 35px;
+		height: 35px;
 	}
 	.day, .month, .year { 
 		position: absolute; 
