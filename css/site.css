@@ -96,6 +96,9 @@ article p {
     margin-top:10px;
     margin-bottom: 20px;	
 }
+.post-fecha {
+	font-size:12px;
+}
 @media only screen and (min-width: 1280px) {
 	* { font-size:105%; }
 	main { width:80%; }
