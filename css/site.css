@@ -119,25 +119,6 @@ article p {
 	}
 	main { padding-top:170px; }
 	article { font-size:75%; }
-	.date {
-		width: 45px;
-		height: 45px;
-	}
-	.day {
-		font-size:15px;
-		top:20px;
-		left:5px;
-	}
-	.month {
-		top:2px;
-		left:2px;
-		font-size: 13px;
-	}
-	.year {
-		top:12px;
-		right:-5px;
-		font-size:13px;
-	}
 }
 @media only screen and (max-width: 325px) {
 	header { height:150px; }
