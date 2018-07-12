@@ -19,7 +19,8 @@
 			{% for post in paginator.posts %}
 			<article>
 				<h2><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></h2>
-				<div>{{ post.date | date: "%d / %m / %Y" }} | Autor : {{ post.author }}</div>
+				<div><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%d / %m / %Y" }}
+				 | Autor : {{ post.author }}</div>
 				{{ post.content | split:'-moarmoar-' | first }}
 				{% if post.content contains '-moarmoar-' %}
 				...<br><a href="{{ post.url }}">[ Seguir leyendo ]</a>
