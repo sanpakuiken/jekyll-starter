@@ -18,7 +18,7 @@
 		<main>
 			<article>
 				<h2>{{ page.title }}</h2>
-				<div><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%d / %m / %Y" }}
+				<div><i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date: "%d / %m / %Y" }}
 				 | Autor : {{ page.author }}</div>
 				{% if content contains '-moarmoar-' %}
 					{{ content | replace: '-moarmoar-', '' }}
