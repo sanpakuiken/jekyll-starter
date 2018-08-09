@@ -2,7 +2,7 @@ timezone: America/Santiago
 name : "sanpaku 意見"
 description: "Reseñas y Analisis de Anime/Manga"
 encoding: utf-8
-paginate: 2
+paginate: 5
 paginate_path: "/page/:num/"
 plugins:
   - jekyll-feed
