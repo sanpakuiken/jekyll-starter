@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		if(window.location.href.indexOf(hako[i].innerHTML.trim()) > -1) {
 			hako[0].classList.remove("cur");
 			hako[i].classList.add("cur");
+			alert(hako[i].innerHTML.trim());
 		}
 	}
 });
