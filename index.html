@@ -27,6 +27,31 @@
 				{% endif %}					
 			</article>
 			{% endfor %}
+			{% if paginator.total_pages > 1 %}
+			<div class="pagination">
+			  {% if paginator.previous_page %}
+				<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
+			  {% else %}
+				<i class="fa fa-chevron-left" aria-hidden="true"></i>
+			  {% endif %}
+
+			  {% for page in (1..paginator.total_pages) %}
+				{% if page == paginator.page %}
+				  <span class="pag_num pag_cur">{{ page }}</span>
+				{% elsif page == 1 %}
+				  <a class="pag_num" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+				{% else %}
+				  <a class="pag_num" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+				{% endif %}
+			  {% endfor %}
+
+			  {% if paginator.next_page %}
+				<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+			  {% else %}
+				<i class="fa fa-chevron-right" aria-hidden="true"></i>
+			  {% endif %}
+			</div>
+			{% endif %}			
 		</main>
 		<footer>
 			{% include footer.html %}
