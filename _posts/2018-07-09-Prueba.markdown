@@ -1,8 +1,0 @@
----
-layout: post
-title: 'Prueba'
-date: 2018-07-09 14:59:35
-author: NIVV
----
-
-Esto es solo una prueba, vamos a calmarnos
