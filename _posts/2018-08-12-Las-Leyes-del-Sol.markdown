@@ -7,8 +7,8 @@ author: NIVV
 
 __Género__ :  Anime, Devocional (Esta animación nos enseña ser tan potente como los 'Live-Action').  
 Adaptación del libro del mismo nombre escrito por Ryuho Okawa. A su vez esta obra está inspirada en 'El Libro de Enoc' incluido por los judíos etíopes y excluido por los judíos actuales argumentando, quizás, en contra del estado genocida de Israel qu-moarmoar-e olvidó ver en otros pueblos la luz de la creación.  
-__Duración : __ 1:40:44.  
-__Año de realización : __ Desconocido (quizás de los 90's).  
+__Duración__ :  1:40:44.  
+__Año de realización__ : Desconocido (quizás de los 90's).  
 Definitivamente ésta es una de las películas más 'devocionales' y hermosas que he visto. Completamente terapéutica (ya que es capaz de transmitir esa conexión divina de forma fidedigna con el espectador).
 "Si quieres ser hermoso séelo del corazón".  
 Repleta de filosofías budistas y gnósticas. Con bases 'New Age', el estudio de realización previo sobretodo en cuanto a periodificación de los pueblos y su unión espiritual me hace apreciar un nuevo concepto: Multi-sincretismo. 
