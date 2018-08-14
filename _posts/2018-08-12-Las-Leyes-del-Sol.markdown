@@ -5,7 +5,7 @@ date: 2018-08-12 21:56:15
 author: NIVV
 ---
 
-__Género : __ Anime, Devocional (Esta animación nos enseña ser tan potente como los 'Live-Action').  
+_Género : _ Anime, Devocional (Esta animación nos enseña ser tan potente como los 'Live-Action').  
 Adaptación del libro del mismo nombre escrito por Ryuho Okawa. A su vez esta obra está inspirada en 'El Libro de Enoc' incluido por los judíos etíopes y excluido por los judíos actuales argumentando, quizás, en contra del estado genocida de Israel qu-moarmoar-e olvidó ver en otros pueblos la luz de la creación.  
 __Duración : __ 1:40:44.  
 __Año de realización : __ Desconocido (quizás de los 90's).  
